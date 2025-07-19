@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Network_Security
+Version: 0.0.1
+Author: Sirat
+Author-email: sirat2753@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
