@@ -3,7 +3,7 @@ pandas
 numpy
 scikit-learn
 certifi
-mlflow
+mlflow<3
 pymongo
 dill
 pyaml
