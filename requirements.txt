@@ -7,4 +7,8 @@ mlflow<3
 pymongo
 dill
 pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
 ##-e .
