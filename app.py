@@ -21,7 +21,7 @@ from starlette.responses import RedirectResponse
 import pandas as pd
 
 from network_security.utils.main_utils.utils import load_object
-
+from uvicorn import run as app_run
 from network_security.utils.ml_utils.model.estimator import NetworkModel
 from network_security.constant.training_pipeline import DATA_INGESTION_COLLECTION_NAME
 from network_security.constant.training_pipeline import DATA_INGESTION_DATABASE_NAME
